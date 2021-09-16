@@ -1,0 +1,13 @@
+C:\Users\anton\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.csprojAssemblyReference.cache
+C:\Users\anton\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.AssemblyInfoInputs.cache
+C:\Users\anton\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.AssemblyInfo.cs
+C:\Users\anton\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.csproj.CoreCompileInputs.cache
+C:\Users\anton\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.exe
+C:\Users\anton\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.deps.json
+C:\Users\anton\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.runtimeconfig.json
+C:\Users\anton\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.runtimeconfig.dev.json
+C:\Users\anton\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.dll
+C:\Users\anton\AppSeries\bin\Debug\netcoreapp3.1\AppSeries.pdb
+C:\Users\anton\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.dll
+C:\Users\anton\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.pdb
+C:\Users\anton\AppSeries\obj\Debug\netcoreapp3.1\AppSeries.genruntimeconfig.cache
